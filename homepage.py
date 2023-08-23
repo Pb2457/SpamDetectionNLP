@@ -1,25 +1,3 @@
-"""
-Project Name: SpamGuardian
-Names: Prbhuv Nigam and Nicholas Susanto 
-Date: 05/26/23
-Project Description: 
-  We created SpamGuardian in hopes of helping people be 
-  able to avoid spam, and even be able to block spam. This week, we 
-  were surprised with how far we were able to take this project in 
-  terms of functionality. Using tkinter, we were able to create an 
-  interface with different screens that the user could interact 
-  with. However, making this project was not without its challenges. 
-  Over the course of making this project, we encountered many 
-  errors, such as many small syntax errors or logic errors that 
-  caused our program to not function properly. Eventually though, 
-  our continued efforts came to fruition. We are proud of making 
-  this project and would describe it as a masterpiece because the 
-  code required to make this project was extremely complex and not 
-  easy at all to do, so we felt that this project was a big 
-  accomplishment. If we had more time to create this project, we 
-  would have added a feature that allows the user to change AI- 
- generated text into a humanistic response and vice versa.
-"""
 import time
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
